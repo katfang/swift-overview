@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:00-overview.playground">
+   </FileRef>
+   <FileRef
+      location = "group:01-variables-printing-types.playground">
+   </FileRef>
+   <FileRef
+      location = "group:02-arrays-and-dictionaries.playground">
+   </FileRef>
+   <FileRef
+      location = "group:03-control-flow.playground">
+   </FileRef>
+   <FileRef
+      location = "group:04-optionals.playground">
+   </FileRef>
+   <FileRef
+      location = "group:05-functions-closures.playground">
+   </FileRef>
+   <FileRef
+      location = "group:06-structs-classes.playground">
+   </FileRef>
+   <FileRef
+      location = "group:07-parameters.playground">
+   </FileRef>
+   <FileRef
+      location = "group:08-generics.playground">
+   </FileRef>
+   <FileRef
+      location = "group:09-type-casting.playground">
+   </FileRef>
+   <FileRef
+      location = "group:10-enumerations.playground">
+   </FileRef>
+   <FileRef
+      location = "group:11-protocols-extensions.playground">
+   </FileRef>
+   <FileRef
+      location = "group:12-generics-in-protocols.playground">
+   </FileRef>
+   <FileRef
+      location = "group:13-operators.playground">
+   </FileRef>
+   <FileRef
+      location = "group:14-overflows.playground">
+   </FileRef>
+   <FileRef
+      location = "group:15-with-objectivec-stuff.playground">
+   </FileRef>
+</Workspace>
